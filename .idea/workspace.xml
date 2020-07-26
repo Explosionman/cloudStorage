@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01c4fafa-1cd5-40bc-99d4-c275a4099c99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/main/java/com/geekbrains/lesson1/ConsoleClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/main/java/com/geekbrains/lesson1/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/geekbrains/lesson1/ServerHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/main/java/com/geekbrains/lesson1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/main/java/com/geekbrains/lesson1/client.java" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/java/com/geekbrains/lesson1/Connection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/main/resources/client.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/geekbrains/lesson1/server.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/geekbrains/lesson1/Server.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,10 +203,10 @@
     </state>
     <state width="1323" height="72" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595483878655" />
     <state width="1493" height="163" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595328664629" />
-    <state x="131" y="0" key="new project wizard" timestamp="1595343939838">
+    <state x="131" y="0" key="new project wizard" timestamp="1595686976988">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1595343939838" />
+    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1595686976988" />
     <state x="410" y="104" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1595332674419" />
   </component>
 </project>
